@@ -1,12 +1,12 @@
-1. Nama   : Aco Wahyudi
-   NIM    : H2020000001
-   JK     : Laki - Laki
+1. Nama   : Rahmita Dwi K
+   NIM    : G1A020034
+   JK     : Perempuan
    Agama  : Islam
-   TTL    : Ambon, 19 Agustus 2003
+   TTL    : Bengkulu, 18 Desember 2002
    Alamat : Jln. Loa Bakung RT.21 No.04
    
-   2. Nama   : Erna Mulyani
-   NIM    : H2020000002
+   2. Nama   : Silvia Rahma
+   NIM    : G1A020010
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 02 Juni 2003
